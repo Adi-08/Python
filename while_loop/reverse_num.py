@@ -6,4 +6,7 @@ while num > 0:
     reverse = reverse * 10 + digit
     num //=10
 
-print(reverse)
+if reverse == num:
+    print("palindrome")
+else:
+    print("Not Palindrome")
