@@ -1,0 +1,19 @@
+[
+    {
+        "product_name": "Laptop",
+        "price": 50000,
+        "Quantity": 5
+    },
+
+    {
+        "product_name": "Smartphones",
+        "price": 25000,
+        "Quantity": 2
+    },
+
+    {
+        "product_name": "VR",
+        "price": 18000,
+        "Quantity": 1
+    }
+]
